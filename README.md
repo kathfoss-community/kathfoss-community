@@ -21,7 +21,7 @@ Feel free to join us in making a difference through FOSS.
 ### 📫 How to Reach Us
 - **Email**: [kathfoss@kathford.edu.np](mailto:kathfoss@kathford.edu.np)  
 - **Facebook**: [KathFOSS Community](https://www.facebook.com/kathfordfosscommunity)  
-- **LinkedIn**: [KathFOSS Community on LinkedIn](https://www.linkedin.com/company/kathfoss-community/posts/?feedView=all)  
+- **LinkedIn**: [KathFOSS Community](https://www.linkedin.com/company/kathfoss-community/)  
 - **Instagram**: [@kathfosscommunity](https://www.instagram.com/kathfosscommunity/)  
 - **Website**: Coming soon  !!!!  
 
